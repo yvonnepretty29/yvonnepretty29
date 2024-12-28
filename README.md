@@ -11,10 +11,11 @@ Hi! I'm **Yvonne Otuoniyo**, a cybersecurity professional passionate about secur
 - ⚡ Fun fact: When I’m not hardening systems, I enjoy exploring escape rooms and solving puzzles!
 
 ## Skills
-- **Languages:** Python, Bash, PowerShell
-- **Frameworks/Tools:** Nmap, Metasploit, Wireshark, Burp Suite
+- **Languages:** Python
+- **Virtualization/Infrastructure Tools:** VMware, Hyper-V
+- **Network Security Tools:** Firewalls (e.g., Palo Alto, Fortinet), Wireshark, Burp Suite
 - **Cloud Security:** AWS, Azure, Google Cloud Platform (GCP)
-- **Other Tools:** Docker, Git, Splunk, SIEM systems
+- **Other Tools:** SIEM systems, Endpoint Detection and Response (EDR) tools
 
 ## Projects
 - [Cloud Security Monitoring Tool]: Developed a tool to monitor and analyze security logs from AWS and Azure environments.
